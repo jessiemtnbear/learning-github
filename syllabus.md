@@ -1,5 +1,5 @@
 ## Syllabus
-* What is Source Control and Why Should you Care? (CBA)
+* What is Source Control and Why Should you Care?  (CBA)
 * What is [git](http://git-scm.com/)? (CBA)
 * Introduction to GitHub (RVR)
   * [GitHub.Com](https://github.com/)
@@ -23,5 +23,6 @@
 * Practical Exercise 
   * Forking
   * Cloning
-  * Makint Changes
+  * Making Changes
   * Committing Changes
+  * 
